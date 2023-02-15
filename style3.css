@@ -1,0 +1,27 @@
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.hakkimizda {
+    margin-top: 10%;
+    color: blueviolet;
+}
+
+.vizyon-misyon {
+    margin-top: 5%;
+    color: goldenrod;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.urunlerimiz {
+    color: blueviolet;
+}
